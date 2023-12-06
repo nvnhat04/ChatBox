@@ -51,20 +51,25 @@
     -fx-font-family: Calibri;
     -fx-text-fill:#1afaff;
     -fx-font-size: 20px;
-    -fx-background-radius: 5px;
+    -fx-background-color: #fbeaeb;
+    -fx-background-radius: 10px;
+
 }
 .chatbox {
     -fx-font-family: Calibri;
     -fx-text-fill:#f1bff2;
     -fx-font-size: 20px;
     -fx-background-radius: 5px;
+    -fx-alignment: right;
 }
 .name {
     -fx-background-color: white;
     -fx-font-family: Calibri;
     -fx-text-fill:#8aaaff;
     -fx-font-size: 20px;
+    -fx-font-weight: bold;
     -fx-background-radius: 5px;
+
 }
 /*#faf8bf, #234e70*/
 /*#8aaae5, white*/
